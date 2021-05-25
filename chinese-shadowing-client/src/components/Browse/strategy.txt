@@ -1,0 +1,12 @@
+User selects difficulty. Browse will only show episodes of that difficulty.
+  Click through to the associated series and it will show all episodes, with all difficulty levels for that series.
+
+Tabs will have different categories
+  Cartoons
+  Comedy
+  News
+  Sitcom
+  Documentary
+  Business/Legal
+
+Each category will list an episode of the selected difficulty from each series.

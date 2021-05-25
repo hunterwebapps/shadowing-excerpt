@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@components/*": ["src/components/*"],
+      "@config": ["src/config.js"],
+      "@store/*": ["src/store/modules/*"],
+      "@pages/*": ["src/pages/*"],
+      "@models/*": ["src/models/*"],
+      "@shared/*": ["src/components/shared/*"],
+      "@controls/*": ["src/components/shared/controls/*"],
+      "@layouts/*": ["src/components/layouts/*"],
+      "@request": ["src/store/request/request.js"]
+    }
+  },
+  "exclude": ["node_modules", "config"]
+}
+
